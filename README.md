@@ -9,6 +9,9 @@ Awesome auto machine learning hyperparameter training libraries
 ## H2O
 - [H2O automl](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) - H2O automl 
 
+## scikit-learn
+- [HungaBunga](https://github.com/ypeleg/HungaBunga) - HungaBunga
+
 ## Feature engineering
 - [Featuretools](https://docs.featuretools.com/index.html) - Featuretools
 
