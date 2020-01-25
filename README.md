@@ -12,6 +12,9 @@ Awesome auto machine learning hyperparameter training libraries
 ## scikit-learn
 - [HungaBunga](https://github.com/ypeleg/HungaBunga) - HungaBunga
 
+## AWS
+- [autogluon](https://github.com/awslabs/autogluon) - AutoGluon: AutoML Toolkit for Deep Learning
+
 ## Feature engineering
 - [Featuretools](https://docs.featuretools.com/index.html) - Featuretools
 
@@ -20,3 +23,4 @@ Awesome auto machine learning hyperparameter training libraries
 - [auto_ml](https://github.com/ClimbsRocks/auto_ml) - auto_ml
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - auto-sklean
 - [AutoGAN](https://github.com/TAMU-VITA/AutoGAN) - AutoGAN
+- [TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - TransmogrifAI
