@@ -16,7 +16,7 @@ Awesome auto machine learning hyperparameter training libraries
 - [autogluon](https://github.com/awslabs/autogluon) - AutoGluon: AutoML Toolkit for Deep Learning
 
 ## Feature engineering
-- [Featuretools](https://docs.featuretools.com/index.html) - Featuretools
+- [Featuretools](https://www.featuretools.com/) - Featuretools
 
 ## Misc
 - [TPOT](https://github.com/EpistasisLab/tpot) - TPOT
