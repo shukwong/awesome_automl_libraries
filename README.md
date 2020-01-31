@@ -24,4 +24,5 @@ Awesome auto machine learning hyperparameter training libraries
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - auto-sklean
 - [AutoGAN](https://github.com/TAMU-VITA/AutoGAN) - AutoGAN
 - [TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - TransmogrifAI
+- [MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox is a powerful Automated Machine Learning python library
 
