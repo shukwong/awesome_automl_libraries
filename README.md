@@ -1,5 +1,5 @@
-# awesome_automl_libraries
-Awesome auto machine learning hyperparameter training libraries
+# awesome_ utoml libraries
+Awesome auto machine learning model and hyperparameter training libraries
 
 ## For Tensorflow/Keras Models
 - [talos](https://github.com/autonomio/talos) - Hyperparameter Optimization for Keras Models
