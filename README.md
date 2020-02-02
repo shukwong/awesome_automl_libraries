@@ -25,4 +25,5 @@ Awesome auto machine learning model and hyperparameter training libraries
 - [AutoGAN](https://github.com/TAMU-VITA/AutoGAN) - AutoGAN
 - [TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - TransmogrifAI
 - [MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox is a powerful Automated Machine Learning python library
+- [ATM](https://github.com/HDI-Project/ATM) - Auto Tune Models - A multi-tenant, multi-data system for automated machine learning (model selection and tuning) python library.
 
