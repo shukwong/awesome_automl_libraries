@@ -1,4 +1,4 @@
-# awesome_ utoml libraries
+# awesome automl libraries
 Awesome auto machine learning model and hyperparameter training libraries
 
 ## For Tensorflow/Keras Models
