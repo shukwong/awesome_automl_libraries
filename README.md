@@ -12,6 +12,7 @@ Awesome auto machine learning model and hyperparameter training libraries
 ## scikit-learn
 - [HungaBunga](https://github.com/ypeleg/HungaBunga) - HungaBunga
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn
+- [Auto-ViML](https://github.com/AutoViML/Auto_ViML) - Automatically Build Multiple ML Models with a Single Line of Code
 
 ## AWS
 - [autogluon](https://github.com/awslabs/autogluon) - AutoGluon: AutoML Toolkit for Deep Learning
