@@ -13,6 +13,7 @@ Awesome auto machine learning model and hyperparameter training libraries
 - [HungaBunga](https://github.com/ypeleg/HungaBunga) - HungaBunga
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn
 - [Auto-ViML](https://github.com/AutoViML/Auto_ViML) - Automatically Build Multiple ML Models with a Single Line of Code
+- [TPOT](https://github.com/EpistasisLab/tpot) - TPOT
 
 ## AWS
 - [autogluon](https://github.com/awslabs/autogluon) - AutoGluon: AutoML Toolkit for Deep Learning
@@ -21,7 +22,6 @@ Awesome auto machine learning model and hyperparameter training libraries
 - [Featuretools](https://www.featuretools.com/) - Featuretools
 
 ## Misc
-- [TPOT](https://github.com/EpistasisLab/tpot) - TPOT
 - [auto_ml](https://github.com/ClimbsRocks/auto_ml) - auto_ml, unmaintained
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - auto-sklean
 - [AutoGAN](https://github.com/TAMU-VITA/AutoGAN) - AutoGAN
@@ -29,4 +29,5 @@ Awesome auto machine learning model and hyperparameter training libraries
 - [MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox is a powerful Automated Machine Learning python library
 - [ATM](https://github.com/HDI-Project/ATM) - Auto Tune Models - A multi-tenant, multi-data system for automated machine learning (model selection and tuning) python library.
 - [Foreshadow](https://github.com/georgianpartners/foreshadow) - Foreshadow: Simple Machine Learning Scaffolding
+- [MLjar](https://github.com/mljar/mljar-supervised) - MLJar: does not seem actively maintained
 
