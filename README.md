@@ -21,6 +21,9 @@ Awesome auto machine learning model and hyperparameter training libraries
 ## Feature engineering
 - [Featuretools](https://www.featuretools.com/) - Featuretools
 
+## Genomics
+- [GenoML](https://github.com/GenoML/genoml) -  an Automated Machine Learning (AutoML) for Genomics
+
 ## Misc
 - [auto_ml](https://github.com/ClimbsRocks/auto_ml) - auto_ml, unmaintained
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - auto-sklean
