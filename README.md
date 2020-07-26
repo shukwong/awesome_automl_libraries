@@ -33,4 +33,5 @@ Awesome auto machine learning model and hyperparameter training libraries
 - [ATM](https://github.com/HDI-Project/ATM) - Auto Tune Models - A multi-tenant, multi-data system for automated machine learning (model selection and tuning) python library.
 - [Foreshadow](https://github.com/georgianpartners/foreshadow) - Foreshadow: Simple Machine Learning Scaffolding
 - [MLjar](https://github.com/mljar/mljar-supervised) - MLJar: does not seem actively maintained
+- [MindsDB](https://www.mindsdb.com/) - MindsDB is a free, open-source autoML framework to streamline the use of neural networks. 
 
