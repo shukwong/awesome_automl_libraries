@@ -24,6 +24,9 @@ Awesome auto machine learning model and hyperparameter training libraries
 ## Genomics
 - [GenoML](https://github.com/GenoML/genoml) -  an Automated Machine Learning (AutoML) for Genomics
 
+## Benchmark
+- [automlbenchmark](https://github.com/openml/automlbenchmark) - OpenML AutoML Benchmarking Framework
+
 ## Misc
 - [auto_ml](https://github.com/ClimbsRocks/auto_ml) - auto_ml, unmaintained
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - auto-sklean
