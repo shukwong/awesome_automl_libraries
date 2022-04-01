@@ -27,6 +27,9 @@ Awesome auto machine learning model and hyperparameter training libraries
 ## Benchmark
 - [automlbenchmark](https://github.com/openml/automlbenchmark) - OpenML AutoML Benchmarking Framework
 
+## Templates/Frameworks
+- PyTorch Lightning + Hydra template (https://github.com/ashleve/lightning-hydra-template) - A template for rapid and reproducible ML experimentation with best practices. 
+
 ## Misc
 - [auto_ml](https://github.com/ClimbsRocks/auto_ml) - auto_ml, unmaintained
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - auto-sklean
